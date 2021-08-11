@@ -1,7 +1,14 @@
 # flutterapp
 
 A new Flutter application.
+# How to run
++ clone the repository: ```https://github.com/festusbetd/flutterapp-test.git```
 
+### Screenshots
++ BLANK:
+![alt tag](https://github.com/festusbetd/flutterapp-test/blob/main/assets/Image%202021-08-11%20at%2012.21.03%20PM.jpeg)
++  WITH DATA:
+![alt tag](https://github.com/festusbetd/flutterapp-test/blob/main/assets/Image%202021-08-11%20at%2012.21.09%20PM.jpeg)
 ## Getting Started
 
 This project is a starting point for a Flutter application.
